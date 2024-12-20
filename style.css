@@ -1,0 +1,15 @@
+body {
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+#calculator {
+    max-width: 400px;
+    margin: 50px auto;
+}
+.screen {
+    height: 60px;
+    font-size: 24px;
+    text-align: right;
+    padding: 10px;
+    margin-bottom: 15px;
+}
